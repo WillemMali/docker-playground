@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+docker run --name playground playground
+docker exec -it playground bash
